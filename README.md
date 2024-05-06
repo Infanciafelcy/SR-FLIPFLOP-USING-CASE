@@ -72,12 +72,13 @@ module sr_flipflop(q, q_bar, s, r, clk, reset);
 endmodule
 ```
 */
-
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](https://github.com/Infanciafelcy/SR-FLIPFLOP-USING-CASE/assets/155411010/26959a9d-7bf5-4de2-b346-bd4a965d01df)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![image](https://github.com/Infanciafelcy/SR-FLIPFLOP-USING-CASE/assets/155411010/219bf701-e712-404e-b858-4f38998fcf85)
 
 
